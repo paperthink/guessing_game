@@ -1,0 +1,19 @@
+initiate random module
+
+list => rock paper and scissor
+
+then take input from the user
+store it in a variable
+
+->also create a variable for computer to choose a
+random choice from the list
+
+then conditoning the value when not equal
+    check for various choices
+
+    print corresponding to it
+
+again if equal then
+    tie!
+
+algorithm by @paperthink 
