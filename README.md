@@ -23,3 +23,8 @@ I made this using my entirely own alorithm. (You can check it out) ;3
 
 
 <img width="1117" height="584" alt="image" src="https://github.com/user-attachments/assets/aa71235b-c81b-44ae-b0c3-3f827f31e662" />
+
+
+***How to play**
+
+Download or copy the repo to your computer and then run the *main_game.py**
