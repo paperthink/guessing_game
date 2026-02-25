@@ -13,6 +13,7 @@ if not game in valu:
     print("Bhai, Tu to yaha see jaa")
 print(computer)
 
+#my own algorithm to do this
 if game != computer:
     if game=="r" and computer=="p":
         print("hahaha, Humans are bad")
