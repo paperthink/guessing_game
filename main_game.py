@@ -11,7 +11,7 @@ game = input("Enter your choice")
 computer = random.choice(valu)
 if not game in valu:
     print("Bhai, Tu to yaha see jaa")
-print(computer)
+print(f"what was computer's choice {computer}")
 
 #my own algorithm to do this
 if game != computer:
