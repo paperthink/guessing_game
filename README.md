@@ -11,14 +11,14 @@ My profile:)
 This is my very first terminal based game "rock papepr and scissor"
 I made this using my entirely own alorithm. (You can check it out) ;3
 
-Some samples:
+**Some samples:***
 
 
 <img width="1130" height="187" alt="image" src="https://github.com/user-attachments/assets/715075da-fc60-4486-a321-184ff18daa5c" />
 
 
 
-there is one jupyter notebook in this repo :)
+***there is one jupyter notebook in this repo :)***
 
 
 
