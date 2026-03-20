@@ -7,6 +7,7 @@ print('''Rules:
       S means scissors''')
 
 
+
 game = input("Enter your choice")
 computer = random.choice(valu)
 if not game in valu:
